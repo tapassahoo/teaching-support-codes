@@ -47,8 +47,9 @@ python concentration_vs_time_plots.py
 
 Input example when prompted:
 ```
-Enter the values of k1 (separated by commas): 1.0, 10.0, 0.1
-Enter the values of k2 (separated by commas): 1.0, 0.5, 5.0
+Enter initial concentration of A (A0 > 0): 1.0
+Enter rate constant k1 (> 0): 0.5
+Enter rate constant k2 (> 0): 5.0
 ```
 
 ### 📘 Educational Purpose

@@ -76,7 +76,7 @@ except ValueError as e:
     exit()
 
 # Time array
-t = np.linspace(0, 10, 500)
+t = np.linspace(0, 40, 500)
 
 # Compute concentration profiles
 A, X, Z = conc_profiles(t, A0, k1, k2)
