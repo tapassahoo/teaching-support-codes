@@ -24,16 +24,22 @@ Both steps follow first-order kinetics, and it is assumed that only species \( A
   - \( k_1 \approx k_2 \)
   - \( k_1 \gg k_2 \)
   - \( k_1 \ll k_2 \)
+ 
+## ▶️ How to Use
 
-### ▶️ Usage
+1. Clone the repository:
+```
+git clone https://github.com/your-username/teaching-support-codes.git
+cd teaching-support-codes
+```
 
-Ensure you have `matplotlib` and `numpy` installed:
+2. Ensure you have `matplotlib` and `numpy` installed:
 
 ```bash
 pip install matplotlib numpy
 ```
 
-Then run:
+3. Then run:
 
 ```bash
 python concentration_vs_time_plots.py
